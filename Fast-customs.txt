@@ -1,0 +1,9 @@
+must be inside an element already defined its dimension specially smalls to medium sizes
+image-with-specific-HeightAndWidth {
+position: absolute;
+top: 0;
+left: 0;
+height: 100%;
+widht: 100%;
+object-fit: cover;
+}
